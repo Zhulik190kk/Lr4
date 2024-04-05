@@ -1,0 +1,15 @@
+/Users/danilmakovskiy/Projects/lr4/lr4/bin/Debug/net7.0/lr4
+/Users/danilmakovskiy/Projects/lr4/lr4/bin/Debug/net7.0/lr4.deps.json
+/Users/danilmakovskiy/Projects/lr4/lr4/bin/Debug/net7.0/lr4.runtimeconfig.json
+/Users/danilmakovskiy/Projects/lr4/lr4/bin/Debug/net7.0/lr4.dll
+/Users/danilmakovskiy/Projects/lr4/lr4/bin/Debug/net7.0/lr4.pdb
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/lr4.csproj.AssemblyReference.cache
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/lr4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/lr4.AssemblyInfoInputs.cache
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/lr4.AssemblyInfo.cs
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/lr4.csproj.CoreCompileInputs.cache
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/lr4.dll
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/refint/lr4.dll
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/lr4.pdb
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/lr4.genruntimeconfig.cache
+/Users/danilmakovskiy/Projects/lr4/lr4/obj/Debug/net7.0/ref/lr4.dll
